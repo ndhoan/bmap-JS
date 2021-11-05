@@ -49,7 +49,7 @@
   "sources": {
     "openmaptiles": {
       "type": "vector",
-      "url": "https://cdn.jsdelivr.net/gh/ndhoan/bmap-JSvietnam.json",
+      "url": "https://cdn.jsdelivr.net/gh/ndhoan/bmap-JS/vietnam.json",
       "test": "test"
     }
   },
